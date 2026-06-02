@@ -4,34 +4,6 @@
 
 Building modern web applications, intelligent AI systems, and scalable backend architectures.
 
-
-## 🔭 Currently Working On
-
-* Agentic AI Applications using LangGraph & LangChain
-* Full-Stack SaaS Platforms
-* Scalable Backend Architectures
-* Modern React & TypeScript Applications
-
-## 🤝 Looking to Collaborate On
-
-* AI Agents
-* SaaS Products
-* Open Source Projects
-* Full-Stack Applications
-
-## 🌱 Currently Learning
-
-* Advanced TypeScript
-* System Design
-* Distributed Systems
-* Production AI Agent Architectures
-
-## 💬 Ask Me About
-
-React • TypeScript • Tailwind CSS • Node.js • FastAPI • MongoDB • PostgreSQL • Supabase • LangChain • LangGraph • AI Agents • REST APIs • Full-Stack Development
-
----
-
 # ⚡ Tech Arsenal
 
 ## 💻 Languages
@@ -123,6 +95,34 @@ Role-based employee management platform with secure authentication and administr
 Lead tracking, workflow automation and customer management application.
 
 ---
+
+## 🔭 Currently Working On
+
+* Agentic AI Applications using LangGraph & LangChain
+* Full-Stack SaaS Platforms
+* Scalable Backend Architectures
+* Modern React & TypeScript Applications
+
+## 🤝 Looking to Collaborate On
+
+* AI Agents
+* SaaS Products
+* Open Source Projects
+* Full-Stack Applications
+
+## 🌱 Currently Learning
+
+* Advanced TypeScript
+* System Design
+* Distributed Systems
+* Production AI Agent Architectures
+
+## 💬 Ask Me About
+
+React • TypeScript • Tailwind CSS • Node.js • FastAPI • MongoDB • PostgreSQL • Supabase • LangChain • LangGraph • AI Agents • REST APIs • Full-Stack Development
+
+---
+
 
 ## 📈 Core Expertise
 
