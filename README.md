@@ -5,20 +5,6 @@
 Building modern web applications, intelligent AI systems, and scalable backend architectures.
 
 
-const faizan = {
-    role: "Full-Stack Developer & AI Engineer",
-    location: "India",
-    education: "B.Tech CSE (AI & ML)",
-    cgpa: "9.0",
-    currentlyBuilding: [
-        "AI Agents",
-        "SaaS Applications",
-        "Full-Stack Platforms",
-        "Automation Systems"
-    ],
-    motto: "Build. Learn. Ship. Repeat."
-};
-
 ## 🔭 Currently Working On
 
 * Agentic AI Applications using LangGraph & LangChain
