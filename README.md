@@ -4,7 +4,7 @@
 
 Building modern web applications, intelligent AI systems, and scalable backend architectures.
 
-```typescript
+
 const faizan = {
     role: "Full-Stack Developer & AI Engineer",
     location: "India",
@@ -18,7 +18,6 @@ const faizan = {
     ],
     motto: "Build. Learn. Ship. Repeat."
 };
-```
 
 ## 🔭 Currently Working On
 
